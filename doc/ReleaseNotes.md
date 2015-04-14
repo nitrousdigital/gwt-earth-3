@@ -37,7 +37,7 @@ This release contains a fix for the critical issue where it was not possible to 
 
 ### 3.0.6
 ##### Released: Sep 13, 2011
-* Fixes for [Issue 5](https://github.com/nitrousdigital/gwt-earth-3/issues/5) : Return type of KmlMouseEvent.getDidHitGlobe() incorrect (GWT Developer Plugin + Internet Explorer). http://code.google.com/p/gwt-earth-3/issues/detail?id=5&can=1
+* Fixes for [Issue 5](https://github.com/nitrousdigital/gwt-earth-3/issues/5) : Return type of KmlMouseEvent.getDidHitGlobe() incorrect (GWT Developer Plugin + Internet Explorer).
 * Modified GoogleEarthWidget to be a Composite Widget.
 
 ### 3.0.5
