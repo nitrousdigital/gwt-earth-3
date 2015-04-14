@@ -28,7 +28,7 @@ This API provides a [GWT](https://developers.google.com/web-toolkit/) widget and
 |06/11/2011	| Completed initial wrapping of all classes. |
 
 ### Getting Started
-See [GettingStarted](https://code.google.com/p/gwt-earth-3/wiki/GettingStarted) to get started now!
+See [GettingStarted](https://github.com/nitrousdigital/gwt-earth-3/blob/master/doc/GettingStarted.md) to get started now!
 
 ### Discussion Group
 [http://groups.google.com/group/gwt-earth](http://groups.google.com/group/gwt-earth)
