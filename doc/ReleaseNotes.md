@@ -1,6 +1,6 @@
 ### 3.1.0
 ##### Released: September 05, 2012
-* Fix for Issue 12 - Can not display 2 GoogleEarthWidgets
+* Fix for [Issue 12](https://github.com/nitrousdigital/gwt-earth-3/issues/12) - Can not display 2 GoogleEarthWidgets
 
 This release contains a fix for the critical issue where it was not possible to display 2 or more GoogleEarthWidget instances without chaining their onInitSuccess() methods.
 
@@ -29,7 +29,7 @@ This release contains a fix for the critical issue where it was not possible to 
 
 ### 3.0.7
 ##### Released: Nov 15, 2011
-* Added Google Ajax API Loader ( [Issue 8](https://code.google.com/p/gwt-earth-3/issues/detail?id=8) )
+* Added Google Ajax API Loader ( [Issue 8](https://github.com/nitrousdigital/gwt-earth-3/issues/8) )
 * Updated all demos to use Google Ajax API Loader
 * Fixed JSNI event callbacks for MouseClickListener in GEEventEmitter
 * Removed GEHtmlDivBalloon::setContent(Widget) as this method was experimental and not very useful.
@@ -37,7 +37,7 @@ This release contains a fix for the critical issue where it was not possible to 
 
 ### 3.0.6
 ##### Released: Sep 13, 2011
-* Fixes for [Issue 5](http://code.google.com/p/gwt-earth-3/issues/detail?id=5&can=1) : Return type of KmlMouseEvent.getDidHitGlobe() incorrect (GWT Developer Plugin + Internet Explorer). http://code.google.com/p/gwt-earth-3/issues/detail?id=5&can=1
+* Fixes for [Issue 5](https://github.com/nitrousdigital/gwt-earth-3/issues/5) : Return type of KmlMouseEvent.getDidHitGlobe() incorrect (GWT Developer Plugin + Internet Explorer). http://code.google.com/p/gwt-earth-3/issues/detail?id=5&can=1
 * Modified GoogleEarthWidget to be a Composite Widget.
 
 ### 3.0.5
@@ -68,7 +68,7 @@ This release contains a fix for the critical issue where it was not possible to 
 
 ### 3.0.2
 ##### Released: Aug 21, 2011
-* [Issue 3](https://code.google.com/p/gwt-earth-3/issues/detail?id=3) :GESchemaObjectContainer::replaceChild(oldChild, newChild) is broken
+* [Issue 3](https://github.com/nitrousdigital/gwt-earth-3/issues/3) :GESchemaObjectContainer::replaceChild(oldChild, newChild) is broken
 * Added more sample code.
 
 ### 3.0.1
