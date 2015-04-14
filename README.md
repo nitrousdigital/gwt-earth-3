@@ -4,7 +4,7 @@ The goal of this API is to provide a comprehensive [GWT](https://developers.goog
 
 This API provides a [GWT](https://developers.google.com/web-toolkit/) widget and overlay types to expose all documented classes and methods of the [Google Earth API version 3.0](https://developers.google.com/earth/documentation/reference/)
 
-**Important Note:** The Google Earth API has been deprecated and will be shut down on December 12th, 2015.
+**Important Note:** The Google Earth API has been [deprecated](https://developers.google.com/earth/documentation/reference/) and will be shut down on December 12th, 2015.
 
 ### Demos
 * [Demo Browser](http://gwt-earth-demos.appspot.com/#HelloWorldDemo) ([Source](http://code.google.com/p/gwt-earth-3/source/browse/trunk/src/com/nitrous/gwt/earth/client/demo/))
