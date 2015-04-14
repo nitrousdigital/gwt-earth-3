@@ -36,7 +36,7 @@ See [GettingStarted](https://github.com/nitrousdigital/gwt-earth-3/blob/master/d
 ### Known Issues
 Currently there appears to be an issue with the GWT plugin for Chrome that prevents gwt-earth projects from being debugged in DevMode in the Google Chrome browser. If you are experiencing this problem, please vote for the issues reported here:
 
-[https://code.google.com/p/chromium/issues/detail?id=137664](https://code.google.com/p/chromium/issues/detail?id=137664)
-[https://code.google.com/p/google-web-toolkit/issues/detail?id=7373](https://code.google.com/p/google-web-toolkit/issues/detail?id=7373)
+* [https://code.google.com/p/chromium/issues/detail?id=137664](https://code.google.com/p/chromium/issues/detail?id=137664)
+* [https://code.google.com/p/google-web-toolkit/issues/detail?id=7373](https://code.google.com/p/google-web-toolkit/issues/detail?id=7373)
 
 The workaround is to use another browser such as FireFox for your DevMode debugging sessions of gwt-earth applications.
