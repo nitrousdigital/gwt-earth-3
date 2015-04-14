@@ -17,6 +17,6 @@
     }
 ```
 
-* Add [GwtEarth3-x.x.jar](http://code.google.com/p/gwt-earth-3/downloads/list) to your project build path
+* Add [GwtEarth3-x.x.jar](https://github.com/nitrousdigital/gwt-earth-3/releases) to your project build path
 * See [HelloWorldDemo.java](https://github.com/nitrousdigital/gwt-earth-3/blob/master/src/com/nitrous/gwt/earth/client/demo/HelloWorldDemo.java) for an example of how to get started with the code.
 * See Other demos and sample code [here](http://gwt-earth-demos.appspot.com/#HelloWorldDemo).
