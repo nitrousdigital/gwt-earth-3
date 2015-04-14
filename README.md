@@ -7,9 +7,9 @@ This API provides a [GWT](https://developers.google.com/web-toolkit/) widget and
 **Important Note:** The Google Earth API has been [deprecated](https://developers.google.com/earth/documentation/reference/) and will be shut down on December 12th, 2015.
 
 ### Demos
-* [Demo Browser](http://gwt-earth-demos.appspot.com/#HelloWorldDemo) ([Source](http://code.google.com/p/gwt-earth-3/source/browse/trunk/src/com/nitrous/gwt/earth/client/demo/))
-* [Hello World demo](http://gwt-earth.appspot.com/) ([Source](http://code.google.com/p/gwt-earth-3-test/source/browse/trunk/src/com/nitrous/gwt/earthtest/client/GwtEarthTest.java))
-* [SmartGWT Shim demo](http://smart-gwt-earth-shim-demo.appspot.com/) ([Source](http://code.google.com/p/smart-gwt-earth-shim-demo/))
+* [Demo Browser](http://gwt-earth-demos.appspot.com/#HelloWorldDemo) ([Source](https://github.com/nitrousdigital/gwt-earth-3/tree/master/src/com/nitrous/gwt/earth/client/demo))
+* [Hello World demo](http://gwt-earth.appspot.com/) ([Source](https://github.com/nitrousdigital/gwt-earth-3-test/blob/master/src/com/nitrous/gwt/earthtest/client/GwtEarthTest.java))
+* [SmartGWT Shim demo](http://smart-gwt-earth-shim-demo.appspot.com/) ([Source](https://github.com/nitrousdigital/smart-gwt-earth-shim-demo))
 
 ### Updates
 |Date|Update|
