@@ -7,9 +7,9 @@ This API provides a [GWT](https://developers.google.com/web-toolkit/) widget and
 **Important Note:** The Google Earth API has been [deprecated](https://developers.google.com/earth/documentation/reference/) and will be shut down on December 12th, 2015.
 
 ### Demos (Source Code)
-* [Demo Browser - Source](https://github.com/nitrousdigital/gwt-earth-3/tree/master/src/com/nitrous/gwt/earth/client/demo))
-* [Hello World - Source](https://github.com/nitrousdigital/gwt-earth-3-test/blob/master/src/com/nitrous/gwt/earthtest/client/GwtEarthTest.java))
-* [SmartGWT Shim Demo - Source](https://github.com/nitrousdigital/smart-gwt-earth-shim-demo))
+* [Demo Browser - Source](https://github.com/nitrousdigital/gwt-earth-3/tree/master/src/com/nitrous/gwt/earth/client/demo)
+* [Hello World - Source](https://github.com/nitrousdigital/gwt-earth-3-test/blob/master/src/com/nitrous/gwt/earthtest/client/GwtEarthTest.java)
+* [SmartGWT Shim Demo - Source](https://github.com/nitrousdigital/smart-gwt-earth-shim-demo)
 
 ### Updates
 |Date|Update|
